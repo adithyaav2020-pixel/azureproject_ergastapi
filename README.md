@@ -93,6 +93,11 @@ Future Enhancements
 - Machine Learning-Based Predictions
 - Advanced Driver Performance Analytics
 
+configuration Required
+storage_account = "<storage_account_name>"
+access_key = "<storage_account_key>"
+
+
 Author
 
 Adithya A V
